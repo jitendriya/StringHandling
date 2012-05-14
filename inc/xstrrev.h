@@ -1,0 +1,1 @@
+xstrrev(char *s);

@@ -1,0 +1,1 @@
+int xstrlen(char *s);

@@ -1,0 +1,8 @@
+OBJDIR=obj
+CFLAGS=-I
+LIBNAME=libStringHandler.a
+
+
+INCLUDES=-I ../inc
+
+#export OBJDIR CFLAGS INCLUDES
